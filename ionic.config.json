@@ -1,0 +1,8 @@
+{
+  "name": "parkup",
+  "app_id": "daddcd1c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
